@@ -1,1 +1,1 @@
-{:cljdoc/languages :auto-detect}
+{:cljdoc/languages ["cljf"]}
